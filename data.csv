@@ -1,0 +1,8 @@
+category,bookingStartTimeperiod,bookingEndTimeperiod,From,To,status
+doctor,12/09/2019 14:00:00,12/09/2019 14:00:00,delhi,chandigarh,booked
+doctor,12/12/2019 10:00:00,12/12/2019 12:00:00,mumbai,delhi,Booked
+plumber,12/12/2018 10:00:00,12/12/2018 12:00:00,mumbai,delhi,Booked
+doctor,13/12/2019 10:00:00,13/12/2019 12:00:00,mysore,bangalore,Booked
+doctor,13/12/2019 10:00:00,13/12/2019 12:00:00,mumbai,delhi,Not_Available
+doctor,08/12/2019 14:00:00,08/12/2019 16:00:00,delhi,delhi,Booked
+plumber,11/09/1999 14:00:00,11/09/1999 16:00:00,pune,goa,Booked
